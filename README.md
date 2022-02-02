@@ -11,3 +11,7 @@ Projects:
 -Daily H&W Survey
 -Exercise Survey
 -Workout Generator
+
+Covered by MIT License:
+Before n' After, LLC 
+2022
